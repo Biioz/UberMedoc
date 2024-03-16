@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    cout << "Hello Client";
+    cout << "--Uber Medoc--\n->Debut de projet !" << endl;
 
     return 0;
 }
