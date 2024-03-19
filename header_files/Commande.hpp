@@ -11,6 +11,6 @@ class Commande{
 
     public:
         Commande();
-        Commande(int, string, double);
+        Commande(int, vector<Medicament>, double);
         ~Commande();
 };
